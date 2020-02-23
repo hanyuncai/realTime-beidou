@@ -1,0 +1,18 @@
+{"namespace": "com.yunda.realtime.avro",
+ "type": "record",
+ "name": "BusiGrossWeight",
+ "fields": [
+     {"name": "transDocId", "type": ["string", "null"]},
+     {"name": "transDocIdType", "type": ["int", "null"]},
+     {"name": "carId", "type": ["string", "null"]},
+     {"name": "carType", "type": ["string", "null"]},
+     {"name": "siteType", "type": ["string", "null"]},
+     {"name": "siteName", "type": ["string", "null"]},
+     {"name": "siteCode", "type": ["string", "null"]},
+     {"name": "grossWeight", "type": ["string", "null"]},
+     {"name": "tareWeight", "type": ["string", "null"]},
+     {"name": "inOutFlag", "type": ["string", "null"]},
+     {"name": "weightTime", "type": ["string", "null"]},
+     {"name": "createTime", "type": ["string", "null"]}
+ ]
+}

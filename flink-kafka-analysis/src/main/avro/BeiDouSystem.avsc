@@ -1,0 +1,19 @@
+{"namespace": "com.yunda.realtime.avro",
+ "type": "record",
+ "name": "BeiDouSystem",
+ "fields": [
+     {"name": "depart_proof", "type": ["string", "null"]},
+     {"name": "site_type",  "type": ["int", "null"]},
+     {"name": "site_encoding", "type": ["string", "null"]},
+	 {"name": "loadometer_load_gross_weight", "type": ["double", "null"]},
+     {"name": "loadometer_load_net_weight", "type": ["double", "null"]},
+	 {"name": "loadometer_unload_gross_weight", "type": ["double", "null"]},
+     {"name": "loadometer_unload_net_weight", "type": ["double", "null"]},
+	 {"name": "loadometer_load_unload_weight", "type": ["double", "null"]},
+     {"name": "scan_load_weight", "type": ["double", "null"]},
+     {"name": "load_number", "type": ["int", "null"]},
+	 {"name": "scan_unload_weight", "type": ["double", "null"]},
+	 {"name": "unload_number", "type": ["int", "null"]},
+     {"name": "database_timestamp",  "type": ["long", "null"]}
+ ]
+}

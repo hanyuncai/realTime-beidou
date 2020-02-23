@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BeiDousystemtest/BeiDou-system-test.iml" filepath="$PROJECT_DIR$/BeiDousystemtest/BeiDou-system-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-kafka-analysis/flink-kafka-analysis.iml" filepath="$PROJECT_DIR$/flink-kafka-analysis/flink-kafka-analysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka-producer-test/kafka-producer-test.iml" filepath="$PROJECT_DIR$/kafka-producer-test/kafka-producer-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/volume-cost-profit-analysis.iml" filepath="$PROJECT_DIR$/volume-cost-profit-analysis.iml" />
+    </modules>
+  </component>
+</project>
